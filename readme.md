@@ -1,0 +1,1 @@
+An advanced Python image editor with features such as image rotation, blurring, grayscale conversion, sepia filter, and batch processing using Tkinter and Pillow.
